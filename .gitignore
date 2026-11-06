@@ -1,0 +1,5 @@
+# ignore raw data
+loan.csv
+
+# ignore EDA data
+loan_data_clean.parquet
